@@ -19,20 +19,19 @@ class ProductViewController extends GetxController {
     {
       "id":1,
       "name":"تصنيف 1",
-      "image":AppImageAsset.product
+      "image":AppImageAsset.camre
 
     },
     {
       "id":2,
       "name":"تصنيف 2",
-      "image":AppImageAsset.product
+      "image":AppImageAsset.phone
 
     },
     {
       "id":3,
       "name":"تصنيف 3",
-      "image":AppImageAsset.product
-
+      "image":AppImageAsset.laptop
     },
   ].obs;
 
